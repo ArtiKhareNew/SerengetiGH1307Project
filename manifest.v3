@@ -11,18 +11,19 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="upperfspackage">5.0</value>
+    <value name="MultiplyPublicService">4.0</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">13-07-2026 13:33:05 GMT</value>
   <null name="extendedProperties"/>
   <value name="target_server_version">12.1.0.0</value>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-07-13T13:34:39.831527414Z</value>
+  <value name="lastUpdated">2026-07-13T13:35:38.982270436Z</value>
   <value name="wmProjectId">flda7999aec8c34e048592c8d4d88f3d8f</value>
   <value name="creator">Arti Khare</value>
 </Values>

@@ -12,3 +12,8 @@ packages:
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
+- name: MultiplyPublicService
+  gitServerName: srcCtrl_shared_bitbucket_Arti
+  gitUrl: https://bitbucket.org/testartiibm
+  gitUsername: artikhare
+  gitBranch: master
