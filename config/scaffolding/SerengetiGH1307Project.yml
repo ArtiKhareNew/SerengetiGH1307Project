@@ -17,3 +17,7 @@ packages:
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
   gitBranch: master
+- name: OpenWeatherClient
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: public
+  wpmVersion: latest
